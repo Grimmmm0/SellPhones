@@ -59,10 +59,12 @@ SellPhones is a PHP-based web application designed to facilitate the trading of 
    http://localhost/sellphones
    ```
 
+
 ## Technologies Used
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** PHP
 - **Database:** MySQL
+
 
 ## File Structure
 Here is an overview of key files:
