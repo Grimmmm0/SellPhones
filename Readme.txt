@@ -2,7 +2,7 @@
 
 SellPhones is a PHP-based web application designed to facilitate the trading of phones. It provides users with functionalities such as phone reservations, inventory management, user profiles, and a shopping cart. The project includes a user-friendly interface for buyers and an admin dashboard for managing products, reservations, and users.
 
-## Features
+# Features
 
 ### User Features:
 - **Home Page** (`index.html`, `index1.php`):
